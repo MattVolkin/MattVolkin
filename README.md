@@ -12,6 +12,9 @@ I build full-stack apps in Python and Java — React and TypeScript on the front
 **[Nacho Average Dad Jokes](https://www.nachoaveragedadjoke.com)** — a live, deployed dad joke browser with search, favorites, and audio playback. Split across a [frontend](https://github.com/MattVolkin/dadjoke-frontend) and [Flask backend](https://github.com/MattVolkin/dadjoke-backend), both with test suites and CI.
 `JavaScript · Flask · SQLite`
 
+**[SU Organization Matching](https://github.com/MattVolkin/SU-Organization-Matching)** — a capstone web app that matches Southwestern University students to student organizations from an interest survey, so they find their community sooner. Four-person team project; I built the UI/UX and API integration.
+`Svelte · Go`
+
 ## 🧠 Currently learning
 
 Go — working through concurrency and systems programming, building toward a D&D combat simulator as a demo project.
